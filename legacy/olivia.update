@@ -2,4 +2,4 @@
 PRODUCT		"olivia"
 VERSION		"1.17.0"
 LASTUPDATE	"Feb/22/2018"
-COMMENT		"Major update from 1.16.x series	----------------------------------------	[IMPORTANT] SCM site has been moved to GitHub (https://github.com/yokochi47/Olivia).	[IMPORTANT] xyza2pipe is released from GitHub (https://github.com/yokochi47/xyza2pipe) under Apache License V2.	[IMPORTANT] The license file, olivia.license, is not required anymore.	[REVISED] Refreshed SVM data model.	[FIXED] Fixed system clash while manipulating peak memo."
+COMMENT		"Major update from 1.16.x series	----------------------------------------	[IMPORTANT] SCM site of the Olivia has been moved to GitHub (https://github.com/yokochi47/Olivia).	[IMPORTANT] xyza2pipe is released from GitHub (https://github.com/yokochi47/xyza2pipe) under Apache License V2.	[IMPORTANT] The license file is not required anymore for academic licensees.	[REVISED] Refreshed SVM data model for back bone assignment.	[FIXED] Fixed system clash while manipulating peak memo.	[FIXED] Fixed NMR-STAR v3.1 parser for importing assigned chemical shift."
