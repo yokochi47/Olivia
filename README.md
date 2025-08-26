@@ -1,5 +1,5 @@
 # Olivia binary installer
-Here we are releasing the latest legacy version of Olivia until the open-source version reboots.
+Here we release the latest legacy version of Olivia until the open-source version reboots.
 
 ## Requirements
 The installer runs on Linux (x86_64) and Mac OS.
